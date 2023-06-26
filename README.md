@@ -1,4 +1,4 @@
-# Modelos-de-Machine-Learning-para-la-Detecci-n-de-Emociones-a-partir-de-la-Voz
+# Modelos-de-Machine-Learning-para-la-Deteccion-de-Emociones-a-partir-de-la-Voz
 Se realizará la extracción de características de los audios con el objetivo de clasificar las emociones asociadas a los mismos.
 
 Se dispone de cuatro carpetas que contienen audios en español de cuatro actores de voz. Estos audios consisten en la recitación de una oración que imita una emoción específica relacionada con el nombre de la carpeta. El objetivo es extraer características de estos audios y utilizar tres modelos de aprendizaje automático: Support Vector Machine, k-nearest neighbors y red neuronal, para clasificar correctamente estas emociones. Se analizará el impacto de los parámetros de estos modelos en la clasificación y se compararán sus desempeños. Al final se seleccionará el mejor modelo basado en su rendimiento.
